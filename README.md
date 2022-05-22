@@ -43,4 +43,4 @@
 
     ![Chino_Kafu](https://github.com/KoishiMoe/KoishiMoe/blob/11e0c5d58195a4b9fb2cfa7046a5261e6cf5c07b/images/Chino_Kafu.png)
     
-  ~~As you can see, I'm a lolicon~~
+  ~~As you can see, I'm a lolicon😋~~

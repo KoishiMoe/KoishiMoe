@@ -45,4 +45,5 @@
   - [Rikka Takanashi](https://en.m.wikipedia.org/wiki/Love,_Chunibyo_%26_Other_Delusions#Rikka_Takanashi)
 
     ![Rikka_Takanashi](https://github.com/KoishiMoe/KoishiMoe/blob/75f83cd78058cf7560478fff4358bc4a590c300a/images/Takanashi_Rikka.gif)
+    
   ~~As you can see, I'm a lolicon😋~~

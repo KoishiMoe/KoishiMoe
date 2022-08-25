@@ -23,6 +23,7 @@
   - Hatsune Miku, [Ayo](https://twitter.com/ayo_a4), [Foxtail-Grass Studio](https://f-g-s.net/), [FELT](https://www.youtube.com/channel/UCYVjEJTsWwyVMj4PlNiqw-Q), [Kano](https://twitter.com/kano_2525), [yuuhei-satellite](https://twitter.com/Yuuka_st), etc.
 - 🎮 Games
   - ⛏ Minecraft
+  - ❤️ Galgame
 - 🌸 Anime
   - [Mikoto Misaka](https://en.wikipedia.org/wiki/Mikoto_Misaka)
 

@@ -61,4 +61,8 @@
   - [锦亚澄](https://madosoft.net/hamidashi/character#asumi) （官译似乎叫锦明日海？管他呢，小天使赛高～）
 
     ![Nishiki Asumi](https://github.com/KoishiMoe/KoishiMoe/blob/main/images/Nishiki_Asumi.png)
+  - [风又音理](https://zh.m.wikipedia.org/zh-cn/%E6%98%9F%E7%A9%BA%E5%88%97%E8%BB%8A%E8%88%87%E7%99%BD%E7%9A%84%E6%97%85%E8%A1%8C) （这也是个小天使！）
+  
+    ![Kazamata Neri](https://github.com/KoishiMoe/KoishiMoe/blob/main/images/Kazamata_Neri.jpg)
+    
   ~~炼铜有理！！！萝莉万岁！！！😋~~

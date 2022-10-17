@@ -24,7 +24,10 @@
 - 🎮 游戏
   - ⛏ Minecraft
   - ❤️ Galgame
-- 🌸 ~~我的老婆们~~
+
+<details>
+- <summary>🌸 我的老婆们(bushi</summary>
+
   - [炮姐](https://zh.wikipedia.org/zh/%E5%BE%A1%E5%9D%82%E7%BE%8E%E7%90%B4) （又帅又可爱～）
 
     ![Misaka Mikoto](https://i.pixiv.re/c/250x250_80_a2/img-master/img/2009/10/23/02/31/47/6770373_p0_square1200.jpg)
@@ -65,4 +68,11 @@
   
     ![Kazamata Neri](https://github.com/KoishiMoe/KoishiMoe/blob/main/images/Kazamata_Neri.jpg)
     
+  - [新海天](https://zh.wikipedia.org/wiki/9-nine-#%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2) （有这样的妹妹你几点回家 ~~（指纸袋套头的功夫大师）~~ ）
+  
+    ![Nimi Sora](https://github.com/KoishiMoe/KoishiMoe/blob/main/images/Nimi_Sora.jpg)
+    
+    ~~别问我为什么只有个纸袋，问就是放出全图我号就没了~~
+    
   ~~炼铜有理！！！萝莉万岁！！！😋~~
+</details>

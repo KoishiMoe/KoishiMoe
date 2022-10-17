@@ -18,7 +18,9 @@
 - ⛩️ [车车人](https://zh.wikipedia.org/wiki/%E6%9D%B1%E6%96%B9Project)
   - 🟣 **[恋恋](https://thwiki.cc/%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B)世界第一！！！**
 
-    ![Koishi](https://i.pixiv.re/c/250x250_80_a2/img-master/img/2011/05/14/05/14/15/18868299_p0_square1200.jpg)
+    ![Koishi](https://github.com/KoishiMoe/KoishiMoe/blob/main/images/koishi.jpg)
+    
+    (PID:[18868299](https://www.pixiv.net/en/artworks/18868299))
 - 🎵 喜欢的歌手/社团/虚拟歌姬/etc.
   - 初音未来, [Ayo](https://twitter.com/ayo_a4), [Foxtail-Grass Studio](https://f-g-s.net/), [FELT](https://www.youtube.com/channel/UCYVjEJTsWwyVMj4PlNiqw-Q), [鹿乃](https://twitter.com/kano_2525), [幽闭星光](https://twitter.com/Yuuka_st), etc.
 - 🎮 游戏

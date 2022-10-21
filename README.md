@@ -28,20 +28,14 @@
   - ❤️ Galgame
 
 <details>
-- <summary>🌸 我的老婆们(bushi</summary>
+<summary>🌸 我的老婆们(bushi</summary>
 
-  - [炮姐](https://zh.wikipedia.org/zh/%E5%BE%A1%E5%9D%82%E7%BE%8E%E7%90%B4) （又帅又可爱～）
-
-    ![Misaka Mikoto](https://i.pixiv.re/c/250x250_80_a2/img-master/img/2009/10/23/02/31/47/6770373_p0_square1200.jpg)
   - [平泽唯](https://zh.wikipedia.org/wiki/K-ON!%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8#%E5%B9%B3%E6%BE%A4%E5%94%AF%EF%BC%88%E5%B9%B3%E6%B2%A2_%E5%94%AF%EF%BC%88%E3%81%B2%E3%82%89%E3%81%95%E3%82%8F_%E3%82%86%E3%81%84%EF%BC%89%EF%BC%89) （世界奇奇怪怪，呆唯可可爱爱～）
 
     ![Hirasawa Yui](https://github.com/KoishiMoe/KoishiMoe/blob/main/images/Hirasawa_Yui.jpg)
   - [泉此方](https://zh.wikipedia.org/wiki/%E5%B9%B8%E9%81%8B%E2%98%86%E6%98%9F%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8#%E6%B3%89%E6%AD%A4%E6%96%B9) （理想的……女儿？）
 
     ![Izumi_Konata_Hinnyuu](https://github.com/KoishiMoe/KoishiMoe/blob/main/images/Izumi_Konata_Hinnyuu.jpg)
-  - [东云名乃](https://zh.wikipedia.org/wiki/%E6%97%A5%E5%B8%B8#%E4%B8%BB%E8%A6%81%E8%A7%92%E8%89%B2) （Nano is the best, but another nano😉）
-
-    ![Nano_Shinonome](https://github.com/KoishiMoe/KoishiMoe/blob/main/images/Nano_Shinonome.JPG)
   - [宫内莲华](https://zh.wikipedia.org/zh-cn/%E6%82%A0%E6%82%A0%E5%93%89%E5%93%89%E5%B0%91%E5%A5%B3%E6%97%A5%E5%92%8C#%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2) （喵帕斯～）
 
     ![Renge_Miyauchi](https://github.com/KoishiMoe/KoishiMoe/blob/main/images/Renge_Miyauchi.jpg)
@@ -70,7 +64,7 @@
   
     ![Kazamata Neri](https://github.com/KoishiMoe/KoishiMoe/blob/main/images/Kazamata_Neri.jpg)
     
-  - [新海天](https://zh.wikipedia.org/wiki/9-nine-#%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2) （有这样的妹妹你几点回家 ~~（指纸袋套头的功夫大师）~~ ）
+  - [新海天](https://zh.wikipedia.org/wiki/9-nine-#%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2) （~~功夫大师~~）
   
     ![Nimi Sora](https://github.com/KoishiMoe/KoishiMoe/blob/main/images/Nimi_Sora.jpg)
     

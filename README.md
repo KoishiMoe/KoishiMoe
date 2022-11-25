@@ -69,6 +69,9 @@
     ![Nimi Sora](https://github.com/KoishiMoe/KoishiMoe/blob/main/images/Nimi_Sora.jpg)
     
     ~~别问我为什么只有个纸袋，问就是放出全图我号就没了~~
+  - [结成希亚](https://zh.wikipedia.org/wiki/9-nine-#%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2) (~~你要是出轨的话我就去死!!!~~)
+
+    ![Noa Yuuki](https://github.com/KoishiMoe/KoishiMoe/blob/main/images/Noa_Yuuki.png)
     
   ~~炼铜有理！！！萝莉万岁！！！😋~~
 </details>
